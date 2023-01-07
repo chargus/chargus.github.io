@@ -19,7 +19,7 @@ Select Publications
  -->
 * **Odd Diffusivity of Chiral Random Motion**  
   *Physical Review Letters*, 2021 (Editor's Suggestion)  
-  [[pdf]](pdfs/PhysRevLett.127.178001.pdf)
+  [[pdf]](docs/PhysRevLett.127.178001.pdf)
   [[suppl]](docs/PhysRevLett.127.178001_suppl.pdf)
   [[doi]](https://doi.org/10.1103/PhysRevLett.127.178001)
   [[arXiv]](https://arxiv.org/abs/2103.09958)
