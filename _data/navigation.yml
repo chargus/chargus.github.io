@@ -19,7 +19,7 @@ main:
   #   url: /cv/
 
   - title: "CV"
-    url: /docs/cory_hargus_cv.pdf/cv/
+    url: /docs/cory_hargus_cv.pdf
     
   # - title: "Guide"
   #   url: /markdown/
