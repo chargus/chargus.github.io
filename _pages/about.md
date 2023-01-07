@@ -1,14 +1,47 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a postdoctoral researcher beginning work with [Julien Tailleur](https://physics.mit.edu/faculty/julien-tailleur/), [Frederic van Wijland](https://sites.google.com/site/fvanwijland/), and [Leticia Cugliandolo](https://www.lpthe.jussieu.fr/~leticia/) in January 2023. My research interests include soft and active matter, molecular simulation, machine learning, and quantum computation. A common theme motivating much of my work is the study of how collective phenomena emerge out of individual dynamics, particularly in driven and living systems.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I earned my PhD in chemical engineering from UC Berkeley, where I worked in the group of [Kranthi Mandadapu](http://www.cchem.berkeley.edu/kranthi/). My PhD research focused on the statistical physics of transport phenomena in active matter; that is, systems made up of self-propelled particles. Before that, I worked at [D. E. Shaw Research](https://www.deshawresearch.com/) in New York City, using high-accuracy quantum chemistry calculations to train classical force fields, which in turn are used in molecular dynamics simulations of herculean size and duration.
+
+Select Publications
+======
+<!-- C. Hargus, J. M. Epstein, K. K. Mandadapu. “Odd Diffusivity of Chiral Random Motion.” *Physical Review Letters*, **127**(17), 178001 (2021). *Editors’ Suggestion*.
+[journal website](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.178001)
+[pdf](docs/PhysRevLett.127.178001.pdf)
+ -->
+* **Odd Diffusivity of Chiral Random Motion**  
+  *Physical Review Letters*, 2021 (Editor's Suggestion)  
+  [[pdf]](pdfs/PhysRevLett.127.178001.pdf)
+  [[suppl]](docs/PhysRevLett.127.178001_suppl.pdf)
+  [[doi]](https://doi.org/10.1103/PhysRevLett.127.178001)
+  [[arXiv]](https://arxiv.org/abs/2103.09958)
+
+* **Anomalous nanoparticle surface diffusion in LCTEM is revealed by deep learning-assisted analysis.**  
+  *Proceedings of the National Academy of Sciences*, 2021  
+  [[pdf]](docs/pnas.2017616118.pdf)
+  [[suppl]](docs/pnas.2017616118_suppl.pdf)
+  [[doi]](https://doi.org/10.1073/pnas.2017616118)
+
+* **Time reversal symmetry breaking and odd viscosity in active fluids: Green-Kubo and NEMD results.**  
+  *The Journal of Chemical Physics*, 2020 (Cover Feature, Editor's Pick)  
+[[pdf]](docs/JChemPhys_2021.pdf)
+[[suppl]](docs/JChemPhys_2021_suppl.pdf)
+[[doi]](https://doi.org/10.1063/5.0006441)
+[[arXiv]](https://arxiv.org/abs/2002.10437)
+
+
+
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -48,3 +81,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
