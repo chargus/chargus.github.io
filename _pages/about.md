@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher beginning work with [Julien Tailleur](https://physics.mit.edu/faculty/julien-tailleur/), [Frederic van Wijland](https://sites.google.com/site/fvanwijland/), and [Leticia Cugliandolo](https://www.lpthe.jussieu.fr/~leticia/) in January 2023. My research interests include soft and active matter, molecular simulation, machine learning, and quantum computation. A common theme motivating much of my work is the study of how collective phenomena emerge out of individual dynamics, particularly in driven and living systems.
+I am a postdoctoral researcher working with [Julien Tailleur](https://physics.mit.edu/faculty/julien-tailleur/) and [Frederic van Wijland](https://sites.google.com/site/fvanwijland/) at the Université Paris Cité. My research interests include soft and active matter, molecular simulation, machine learning, and quantum computation. A common theme motivating much of my work is the study of how collective phenomena emerge out of individual dynamics, particularly in active and living systems.
 
 I earned my PhD in chemical engineering from UC Berkeley, where I worked in the group of [Kranthi Mandadapu](http://www.cchem.berkeley.edu/kranthi/). My PhD research focused on the statistical physics of transport phenomena in active matter; that is, systems made up of self-propelled particles. Before that, I worked at [D. E. Shaw Research](https://www.deshawresearch.com/) in New York City, using high-accuracy quantum chemistry calculations to train classical force fields, which in turn are used in molecular dynamics simulations of herculean size and duration. More details can be found in [my CV](docs/cory_hargus_cv.pdf).
 
@@ -24,13 +24,13 @@ Select Publications
   [[doi]](https://doi.org/10.1103/PhysRevLett.127.178001)
   [[arXiv]](https://arxiv.org/abs/2103.09958)
 
-* **Anomalous nanoparticle surface diffusion in LCTEM is revealed by deep learning-assisted analysis.**  
+* **Anomalous nanoparticle surface diffusion in LCTEM is revealed by deep learning-assisted analysis**  
   *Proceedings of the National Academy of Sciences*, 2021  
   [[pdf]](docs/pnas.2017616118.pdf)
   [[suppl]](docs/pnas.2017616118_suppl.pdf)
   [[doi]](https://doi.org/10.1073/pnas.2017616118)
 
-* **Time reversal symmetry breaking and odd viscosity in active fluids: Green-Kubo and NEMD results.**  
+* **Time reversal symmetry breaking and odd viscosity in active fluids: Green-Kubo and NEMD results**  
   *The Journal of Chemical Physics*, 2020 (Cover Feature, Editor's Pick)  
 [[pdf]](docs/JChemPhys_2021.pdf)
 [[suppl]](docs/JChemPhys_2021_suppl.pdf)
